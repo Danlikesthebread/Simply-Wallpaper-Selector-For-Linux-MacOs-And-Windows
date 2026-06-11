@@ -29,7 +29,7 @@ class SettingsWindow(QWidget):
         container_layout.setContentsMargins(35, 35, 35, 35)
         container_layout.setSpacing(20)
         
-        title = QLabel("Wallpaper Switcher Premium")
+        title = QLabel("Wallpaper Switcher Config)
         title.setFont(QFont("sans-serif", 16, QFont.Weight.Bold))
         title.setStyleSheet("color: #ffffff; border: none; background: transparent;")
         title.setAlignment(Qt.AlignmentFlag.AlignCenter)
