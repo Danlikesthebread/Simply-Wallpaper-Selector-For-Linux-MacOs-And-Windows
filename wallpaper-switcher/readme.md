@@ -1,3 +1,5 @@
+This project has been practically done entirely with AI. There should be no problems with the code, but I am not responsible for any damage that this program may cause. You are free to use it, modify it, and publish it.
+
 # Animated HUD Wallpaper Selector
 
 A modern, minimalist, and fluid real-time wallpaper changer UI built with a translucent Glassmorphic design using PyQt6.
