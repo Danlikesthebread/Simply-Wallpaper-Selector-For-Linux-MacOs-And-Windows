@@ -69,7 +69,8 @@ python main.py
    
 Name: Wallpaper HUD Selector
 Command: python3 /path/to/your/project/main.py
-5. Click Set Shortcut and press your desired key combination (e.g., Super + W or Ctrl + Alt + W).
+
+4. Click Set Shortcut and press your desired key combination (e.g., Super + W or Ctrl + Alt + W).
 
 ### macOS Configuration
 
